@@ -48,7 +48,5 @@ class Main {
 
   System.out.println("Su link es >> https://www.keene.edu/campus/maps/tool/?coordinates=-"+a+"%2C%20"+b+"%0A-"+c+"%2C%20"+d+"%0A-"+
   e+"%2C%20"+f+"%0A-"+g+"%2C%20"+h+"%0A-"+i+"%2C%20"+j);
-
 	}
-
 }
